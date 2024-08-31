@@ -1,0 +1,28 @@
+### 도트 디자인
+색상별 의미 : <swan style = "color:violet">**계획 중**</swan> || <swan style = "color:yellowgreen"> **완료** </swan> || <swan style = "color:RED"> **미완료/시간임박** </swan>
+- <swan style = "color:RED"> **맵 만들기 with gather town** </swan>
+  - 공동 실습실 크기 정상화
+  - 화장실 구현
+    - 변기, 세면대 직접 만들어야 함.
+  - 교실 만들기
+  - 계단 만들기
+  - 메이커 스페이스 및 wee클래스 교실 만들기
+  - 전기과 실습장 제거하기
+  - 나머지 빈 교실 구색만 맞춰서 채우기
+- 오브젝트 디자인
+  - 플레이어
+  - UI
+    - HP / stamina
+    - wasd button
+  - 기타 인물
+    - 선생님?
+  - 자격증을 표현할 수 있는 아이콘
+    - 정보처리기능사 : ?
+    - 전기기능사 : ?
+    - 통신선로기능사 : ?
+    - 정보기기기능사 : ?
+    - SQLD : ?
+    - <swan style = "color:yellowgreen"> **컴활** </swan> : 엑셀 아이콘
+    - 한국사능력검정 : ?
+    - <swan style = "color:violet">토익</swan> : "TOEIC" 글자
+    - <swan style = "color:violet">오픽</swan> : "opic" 글자
