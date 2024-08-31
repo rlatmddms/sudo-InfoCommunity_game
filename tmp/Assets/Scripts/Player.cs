@@ -38,28 +38,19 @@ public class Player : MonoBehaviour
         }
 
         if (is_move_x)
+        {
             input.y = 0;
-        else
-            input.x = 0;
+            
+        }
 
-        if (anime.GetInteger("ver") != (int)(input.y))
-        {
-            anime.SetBool("is_change", true);
-            anime.SetInteger("ver", (int)(input.y));
-        }
         else
         {
-            anime.SetBool("is_change", false);
+            input.x = 0;
+            
         }
-        if (anime.GetInteger("hor") != (int)input.x)
-        {
-            anime.SetBool("is_change", true);
-            anime.SetInteger("hor", (int)(input.x));
-        }
-        else
-        {
-            anime.SetBool("is_change", false);
-        }
+        anime.SetInteger("hor", (int)(input.x));
+        anime.SetInteger("ver", (int)(input.y));
+
 
 
         if (Input.GetButtonDown("Fire1"))
@@ -75,9 +66,6 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
-
-
-
         Vector2 move = input * Time.deltaTime * speed;
         rgd.MovePosition(move + rgd.position);
     }
