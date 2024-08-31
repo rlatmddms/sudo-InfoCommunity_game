@@ -25,7 +25,7 @@ public class UI : MonoBehaviour
 
     private void FixedUpdate()
     {
-
+     
     }
 
     void show_hpbar(int hp)
