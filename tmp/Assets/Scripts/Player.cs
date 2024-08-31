@@ -25,6 +25,7 @@ public class Player : MonoBehaviour
         if (Input.GetButtonDown("Fire2"))
         {
             hp += 10;
+            speed += 1;
         }
     }
 
