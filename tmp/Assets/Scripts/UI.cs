@@ -8,6 +8,7 @@ public class UI : MonoBehaviour
     public Transform st_shape;
     float stbar_x, stbar_sizex;
     float hpbar_x, hpbar_sizex;
+    public Camera cam;
     void Awake()
     {
         stbar_x = st_shape.localPosition.x;
@@ -25,7 +26,6 @@ public class UI : MonoBehaviour
 
     private void FixedUpdate()
     {
-     
     }
 
     void show_hpbar(int hp)
