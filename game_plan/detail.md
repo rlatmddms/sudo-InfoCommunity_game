@@ -13,7 +13,7 @@
 
 ## 전체 오브젝트
 ### 배경
-- 수도공고 4층
+- [수도공고 4층](https://app.gather.town/app/OuAQlhrJnvKdsDCm/is%20it%20right)
 - 벽 / 장애물
 - 필드 상호작용 물건 및 장소
 
