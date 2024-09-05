@@ -7,3 +7,4 @@
 2. [유니티 설치하기, 에디터 버전은 2022.3.44f1](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe)   
 (유니티 회원가입 해야함) 
 3. [게임 개발 계획](game_plan/detail.md) 확인하고 의견 내기
+4. [해야할 일](game_plan/to_do_list.md) 확인하기
