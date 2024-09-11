@@ -14,10 +14,10 @@ GameObject:
   - component: {fileID: 5830944665801775656}
   m_Layer: 0
   m_Name: ban_wall
-  m_TagString: Untagged
+  m_TagString: wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3093643894325366496
 Transform:
@@ -77,7 +77,7 @@ SpriteRenderer:
   m_SortingOrder: 15
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
     type: 3}
-  m_Color: {r: 1, g: 0.17924517, b: 0.17924517, a: 0.39215687}
+  m_Color: {r: 1, g: 0.17924517, b: 0.17924517, a: 0.28235295}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -157,5 +157,5 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 7
