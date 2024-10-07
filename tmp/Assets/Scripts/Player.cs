@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 
 public class Player : MonoBehaviour
@@ -53,15 +54,24 @@ public class Player : MonoBehaviour
 
 
 
-        if (Input.GetButtonDown("Fire1"))
+        if (Input.GetButtonDown("Fire1") && hp > 0)
         {
             hp -= 10;
         }
-        if (Input.GetButtonDown("Fire2"))
+        if (Input.GetButtonDown("Fire2") && hp < 100)
         {
             hp += 10;
             speed += 1;
         }
+        if(hp <= 0)
+        {
+            Invoke("Game_Over", 1);
+        }
+     
+    }
+    void Game_Over()
+    { 
+        SceneManager.LoadScene("game_over");
     }
 
     private void FixedUpdate()
