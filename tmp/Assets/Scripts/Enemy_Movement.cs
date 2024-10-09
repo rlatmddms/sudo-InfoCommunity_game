@@ -51,9 +51,9 @@ public class Enemy_Movement : MonoBehaviour
 
         transform.position += Direction * Speed * Time.deltaTime;   //이동
     }
-    public void OnCollisionEnter2D()    //충돌 감지 (충돌 시작 시만)
+    public void OnCollisionEnter2D(Collision2D collision)    //충돌 감지 (충돌 시작 시만)
     {
-        if (GameManager.gm.player.hp > 0)  //플레이어와 근접 시
+        if (collision.gameObject.CompareTag("Player") && GameManager.gm.player.hp > 0)  //플레이어와 근접 시
         {
             
             GameManager.gm.player.hp -= 10; //플레이어 체력 감소

@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
+    private const bool V = true;
     public float speed;
     public int hp, stamina;
     public Rigidbody2D rgd;
@@ -63,6 +64,7 @@ public class Player : MonoBehaviour
             hp += 10;
             speed += 1;
         }
+
         if(hp <= 0)
         {
             Invoke("Game_Over", 1);
