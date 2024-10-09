@@ -11,13 +11,13 @@ public class License : MonoBehaviour
         rd = GetComponent<SpriteRenderer>();
     }
 
-    private void OnMouseEnter()
+    void OnMouseEnter()
     {
         rd.material.color = new Color(1, 1, 1, 1);
     }
-    private void OnMouseExit()
+    void OnMouseExit()
     {
-        rd.material.color = new Color(1, 1, 1, 180 / 255f);
+        rd.material.color = new Color(1, 1, 1, 100 / 255f);
     }
 
     // Update is called once per frame
