@@ -27,7 +27,7 @@ public class EnemyAI : MonoBehaviour
         while (true)
         {
             CalculatePath();
-            yield return new WaitForSeconds(0.5f); // 1초마다 경로 재계산
+            yield return new WaitForSeconds(1f); // 1초마다 경로 재계산
         }
     }
 
