@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using UnityEngine;
 
-public class Id1 : MonoBehaviour
+public class GetLicenseSystem : MonoBehaviour
 {
     SpriteRenderer rd;
     public int start_date, end_date,id;
