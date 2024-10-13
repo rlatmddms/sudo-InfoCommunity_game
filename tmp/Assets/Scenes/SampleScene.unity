@@ -727,6 +727,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: machine8 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5725524800429574903, guid: 61baee2ca2f0dc64db07c8ba1354d60b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1221,6 +1226,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: driver
       objectReference: {fileID: 0}
+    - target: {fileID: 8090994560391816860, guid: d3686b3e093c9de43800ea1329b2538f,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1486,6 +1496,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: machine6 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 5936767126502021933, guid: bee389c4cc5e15748bffa409a28fa1c1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7364938079390221075, guid: bee389c4cc5e15748bffa409a28fa1c1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1638,6 +1653,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cabinet1 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 31768849002534350, guid: 50d25291642279e4894c9feeccacefdd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1776890322724927555, guid: 50d25291642279e4894c9feeccacefdd,
         type: 3}
@@ -1867,6 +1887,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: air purifier
       objectReference: {fileID: 0}
+    - target: {fileID: 7556378162910746673, guid: 2e26581aaf630a94aa8817af4a638cd8,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1902,6 +1927,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -3269,6 +3299,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk_drawer2
       objectReference: {fileID: 0}
+    - target: {fileID: 4799517149396083380, guid: 462d7574b64181f48b56739fc8e71829,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3342,6 +3377,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: nippers (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7867403131705152033, guid: b6b637d8d178c944bbf6d68bd514e625,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4087,6 +4127,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: stair3 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2428679180472974938, guid: 0303bda43a5886d4099f54d7237a5cab,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 9046570732898918147, guid: 0303bda43a5886d4099f54d7237a5cab,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -4399,6 +4444,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk15 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -4627,6 +4677,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wire Stripper (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8606476437107973325, guid: 25bcd4d5a85a1e1498de657b48008673,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4800,6 +4855,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk8 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7341775059675600478, guid: 050fe4c510bcf4a49bd2057f58f96509,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5042,6 +5102,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair7_back
+      objectReference: {fileID: 0}
+    - target: {fileID: 8497453187625823526, guid: dcd128d4632e21e46a99660c8ee163cb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5309,6 +5374,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PC2MONITOR_front
       objectReference: {fileID: 0}
+    - target: {fileID: 3940087267420986974, guid: a53dc62f786e79144ad163118b1f5aae,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8206497118725309348, guid: a53dc62f786e79144ad163118b1f5aae,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5432,6 +5502,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cabinet2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737626048229165124, guid: 8ba5b050f568e31438413d08f64f2052,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5604,6 +5679,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: drawer (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1113986267387990588, guid: 84bc479fd7e970e4fa8e6e292b154057,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4855912684972781504, guid: 84bc479fd7e970e4fa8e6e292b154057,
         type: 3}
@@ -5991,6 +6071,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: machine6 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 5936767126502021933, guid: bee389c4cc5e15748bffa409a28fa1c1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7364938079390221075, guid: bee389c4cc5e15748bffa409a28fa1c1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6124,6 +6209,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: something7 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6529639086805868388, guid: 14fd7006c66ef1a4e80aa033343356b1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6503,6 +6593,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: furniture2_side (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7932836728425812473, guid: ea75af8b1e0838f43a1f4a600906ae11,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6911,6 +7006,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: drawer (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1113986267387990588, guid: 84bc479fd7e970e4fa8e6e292b154057,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4855912684972781504, guid: 84bc479fd7e970e4fa8e6e292b154057,
         type: 3}
@@ -7620,6 +7720,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: drawer (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1113986267387990588, guid: 84bc479fd7e970e4fa8e6e292b154057,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4855912684972781504, guid: 84bc479fd7e970e4fa8e6e292b154057,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7743,6 +7848,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: furniture_side
+      objectReference: {fileID: 0}
+    - target: {fileID: 7779741036655960287, guid: e0b2714604d5ec848825e4ce9ee4df96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7920,6 +8030,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair8_back (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
@@ -8152,6 +8267,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cabinet1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 31768849002534350, guid: 50d25291642279e4894c9feeccacefdd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1776890322724927555, guid: 50d25291642279e4894c9feeccacefdd,
         type: 3}
@@ -8458,6 +8578,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7705259556982099680, guid: 20d671b8733ac6844bd3d0b20dbeebd9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8507213572772968088, guid: 20d671b8733ac6844bd3d0b20dbeebd9,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -8697,6 +8822,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk_drawer (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7963323704704248982, guid: e4e575dfbcf95044986044290190c78a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8963,6 +9093,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: stair3 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2428679180472974938, guid: 0303bda43a5886d4099f54d7237a5cab,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9046570732898918147, guid: 0303bda43a5886d4099f54d7237a5cab,
         type: 3}
@@ -9266,6 +9401,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Box_yellow (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974716787385265413, guid: 7af2f8c52b9f3cc4cb5edca6c2404afe,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10164,6 +10304,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk15 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -10242,6 +10387,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair8_back (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
@@ -10538,6 +10688,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: drawer
+      objectReference: {fileID: 0}
+    - target: {fileID: 1113986267387990588, guid: 84bc479fd7e970e4fa8e6e292b154057,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4855912684972781504, guid: 84bc479fd7e970e4fa8e6e292b154057,
         type: 3}
@@ -10897,6 +11052,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet2
       objectReference: {fileID: 0}
+    - target: {fileID: 5737626048229165124, guid: 8ba5b050f568e31438413d08f64f2052,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11044,6 +11204,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: something7 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6529639086805868388, guid: 14fd7006c66ef1a4e80aa033343356b1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11339,6 +11504,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet3 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7705259556982099680, guid: 20d671b8733ac6844bd3d0b20dbeebd9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8507213572772968088, guid: 20d671b8733ac6844bd3d0b20dbeebd9,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -11585,6 +11755,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -55451,6 +55626,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: chair8_back (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -55609,6 +55789,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine6 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936767126502021933, guid: bee389c4cc5e15748bffa409a28fa1c1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7364938079390221075, guid: bee389c4cc5e15748bffa409a28fa1c1,
         type: 3}
@@ -56132,6 +56317,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: nippers (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7867403131705152033, guid: b6b637d8d178c944bbf6d68bd514e625,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -56849,6 +57039,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: electric work (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -56946,6 +57141,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk_drawer3 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1010547005557534743, guid: be6d2cdc0a477354aa4177d48f97a2ca,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5432399735515632587, guid: be6d2cdc0a477354aa4177d48f97a2ca,
         type: 3}
@@ -57382,6 +57582,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: nippers (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 7867403131705152033, guid: b6b637d8d178c944bbf6d68bd514e625,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -57405,6 +57610,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -57843,6 +58053,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: chair8_back (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -57921,6 +58136,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine6 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936767126502021933, guid: bee389c4cc5e15748bffa409a28fa1c1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7364938079390221075, guid: bee389c4cc5e15748bffa409a28fa1c1,
         type: 3}
@@ -58425,6 +58645,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: nippers (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7867403131705152033, guid: b6b637d8d178c944bbf6d68bd514e625,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -58588,6 +58813,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Box_yellow
       objectReference: {fileID: 0}
+    - target: {fileID: 1974716787385265413, guid: 7af2f8c52b9f3cc4cb5edca6c2404afe,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -58685,6 +58915,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936767126502021933, guid: bee389c4cc5e15748bffa409a28fa1c1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7364938079390221075, guid: bee389c4cc5e15748bffa409a28fa1c1,
         type: 3}
@@ -59224,6 +59459,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: electric work (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -59539,6 +59779,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: electric work (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -60203,6 +60448,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: electric work (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -60294,6 +60544,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -60463,6 +60718,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: stair4 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105550879789321302, guid: a9b098fdb902a87429c8d67dc43db4ee,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6377014217409802619, guid: a9b098fdb902a87429c8d67dc43db4ee,
         type: 3}
@@ -60854,6 +61114,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk_drawer
+      objectReference: {fileID: 0}
+    - target: {fileID: 7963323704704248982, guid: e4e575dfbcf95044986044290190c78a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -61250,6 +61515,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: circuit
       objectReference: {fileID: 0}
+    - target: {fileID: 8698167775438486547, guid: 65dc5a582c96564499a00441460f64d5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -61342,6 +61612,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: machine6 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5936767126502021933, guid: bee389c4cc5e15748bffa409a28fa1c1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7364938079390221075, guid: bee389c4cc5e15748bffa409a28fa1c1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -61415,6 +61690,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: stair4 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105550879789321302, guid: a9b098fdb902a87429c8d67dc43db4ee,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6377014217409802619, guid: a9b098fdb902a87429c8d67dc43db4ee,
         type: 3}
@@ -61499,6 +61779,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair8_back
+      objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
@@ -61887,6 +62172,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -62633,6 +62923,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: nippers (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 7867403131705152033, guid: b6b637d8d178c944bbf6d68bd514e625,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -62791,6 +63086,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PC_monitor1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2780058207466273597, guid: 8023755b45863da4eb1968dbf898e428,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -62869,6 +63169,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: nippers (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7867403131705152033, guid: b6b637d8d178c944bbf6d68bd514e625,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -63091,6 +63396,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: circuit (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8698167775438486547, guid: 65dc5a582c96564499a00441460f64d5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -63114,6 +63424,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine4 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
@@ -63324,6 +63639,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5737626048229165124, guid: 8ba5b050f568e31438413d08f64f2052,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -63353,6 +63673,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PC2_left
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095541085723237366, guid: ef92a268fd3304b448313670fe3da47d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7534811861125115041, guid: ef92a268fd3304b448313670fe3da47d,
         type: 3}
@@ -63506,6 +63831,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: drill (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2080026677729297875, guid: 3e790cf3384185a45b296d01a506c9b9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7552738098092249941, guid: 3e790cf3384185a45b296d01a506c9b9,
         type: 3}
@@ -63758,6 +64088,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: chair8_back (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -64000,6 +64335,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 31768849002534350, guid: 50d25291642279e4894c9feeccacefdd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1776890322724927555, guid: 50d25291642279e4894c9feeccacefdd,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -64228,6 +64568,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wire Stripper (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8606476437107973325, guid: 25bcd4d5a85a1e1498de657b48008673,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -64251,6 +64596,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -64494,6 +64844,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: chair8_back (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -64667,6 +65022,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: chair8_back (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -64740,6 +65100,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: stair4 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105550879789321302, guid: a9b098fdb902a87429c8d67dc43db4ee,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6377014217409802619, guid: a9b098fdb902a87429c8d67dc43db4ee,
         type: 3}
@@ -65120,6 +65485,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk15 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -65200,7 +65570,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &709311435
 Transform:
@@ -65294,6 +65664,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: electric work (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -65397,6 +65772,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: drawer (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1113986267387990588, guid: 84bc479fd7e970e4fa8e6e292b154057,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4855912684972781504, guid: 84bc479fd7e970e4fa8e6e292b154057,
         type: 3}
@@ -66386,6 +66766,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: chair7_back (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8497453187625823526, guid: dcd128d4632e21e46a99660c8ee163cb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -66464,6 +66849,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: nippers (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7867403131705152033, guid: b6b637d8d178c944bbf6d68bd514e625,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -66882,6 +67272,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: chair8_back (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -67191,6 +67586,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair8_back (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
@@ -67810,6 +68210,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: stair4 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4105550879789321302, guid: a9b098fdb902a87429c8d67dc43db4ee,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6377014217409802619, guid: a9b098fdb902a87429c8d67dc43db4ee,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -67893,6 +68298,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: stair3 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2428679180472974938, guid: 0303bda43a5886d4099f54d7237a5cab,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9046570732898918147, guid: 0303bda43a5886d4099f54d7237a5cab,
         type: 3}
@@ -68326,6 +68736,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 31768849002534350, guid: 50d25291642279e4894c9feeccacefdd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1776890322724927555, guid: 50d25291642279e4894c9feeccacefdd,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -68643,6 +69058,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: something7
       objectReference: {fileID: 0}
+    - target: {fileID: 6529639086805868388, guid: 14fd7006c66ef1a4e80aa033343356b1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -68668,7 +69088,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &801892463
 Transform:
@@ -68913,6 +69333,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: something7 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6529639086805868388, guid: 14fd7006c66ef1a4e80aa033343356b1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -69234,6 +69659,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: electric work (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -69317,6 +69747,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: air purifier
+      objectReference: {fileID: 0}
+    - target: {fileID: 7556378162910746673, guid: 2e26581aaf630a94aa8817af4a638cd8,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -69475,6 +69910,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: bookcase (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8694628576791803914, guid: c46346b770ecf364db6a8cec5989a687,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -69888,6 +70328,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: trashcans
       objectReference: {fileID: 0}
+    - target: {fileID: 5673239777878917211, guid: 3db593f2e81b07d43a96551ea8104435,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -69911,6 +70356,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: books
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732080815506357499, guid: 950214ec35339c449bcadab2b7ea7946,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5473873872094891805, guid: 950214ec35339c449bcadab2b7ea7946,
         type: 3}
@@ -69985,6 +70435,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: bookcase_long
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800498021297861221, guid: 86d511f8b745fec44b5e6cf9799bf516,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6183013441634506903, guid: 86d511f8b745fec44b5e6cf9799bf516,
         type: 3}
@@ -70308,6 +70763,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: stair3 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2428679180472974938, guid: 0303bda43a5886d4099f54d7237a5cab,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 9046570732898918147, guid: 0303bda43a5886d4099f54d7237a5cab,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -70397,6 +70857,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair8_back (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
@@ -70640,6 +71105,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: chair8_back (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -70881,6 +71351,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: drawer (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1113986267387990588, guid: 84bc479fd7e970e4fa8e6e292b154057,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4855912684972781504, guid: 84bc479fd7e970e4fa8e6e292b154057,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -71113,6 +71588,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet1 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 31768849002534350, guid: 50d25291642279e4894c9feeccacefdd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1776890322724927555, guid: 50d25291642279e4894c9feeccacefdd,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -71247,6 +71727,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: nippers (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7867403131705152033, guid: b6b637d8d178c944bbf6d68bd514e625,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -71344,6 +71829,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine6 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936767126502021933, guid: bee389c4cc5e15748bffa409a28fa1c1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7364938079390221075, guid: bee389c4cc5e15748bffa409a28fa1c1,
         type: 3}
@@ -71478,6 +71968,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: electric work (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -71647,6 +72142,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: circuit (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8698167775438486547, guid: 65dc5a582c96564499a00441460f64d5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -71765,6 +72265,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine6 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936767126502021933, guid: bee389c4cc5e15748bffa409a28fa1c1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7364938079390221075, guid: bee389c4cc5e15748bffa409a28fa1c1,
         type: 3}
@@ -71958,6 +72463,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: machine8
       objectReference: {fileID: 0}
+    - target: {fileID: 5725524800429574903, guid: 61baee2ca2f0dc64db07c8ba1354d60b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -71981,6 +72491,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine4 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
@@ -72504,6 +73019,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: stair3
       objectReference: {fileID: 0}
+    - target: {fileID: 2428679180472974938, guid: 0303bda43a5886d4099f54d7237a5cab,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 9046570732898918147, guid: 0303bda43a5886d4099f54d7237a5cab,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -72721,6 +73241,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cabinet2 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737626048229165124, guid: 8ba5b050f568e31438413d08f64f2052,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -73196,6 +73721,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet2 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 5737626048229165124, guid: 8ba5b050f568e31438413d08f64f2052,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -73462,6 +73992,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk15 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -73606,6 +74141,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Box_yellow (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1974716787385265413, guid: 7af2f8c52b9f3cc4cb5edca6c2404afe,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -73703,6 +74243,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cabinet4 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 507529465019194898, guid: 354a729c3b1637649ab7852e6fc7076a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5162057401482962206, guid: 354a729c3b1637649ab7852e6fc7076a,
         type: 3}
@@ -73834,6 +74379,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet2 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 5737626048229165124, guid: 8ba5b050f568e31438413d08f64f2052,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -73941,6 +74491,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cabinet1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 31768849002534350, guid: 50d25291642279e4894c9feeccacefdd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1776890322724927555, guid: 50d25291642279e4894c9feeccacefdd,
         type: 3}
@@ -74085,6 +74640,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: electric work (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -74642,6 +75202,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: chair8_back (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -75026,6 +75591,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet3
       objectReference: {fileID: 0}
+    - target: {fileID: 7705259556982099680, guid: 20d671b8733ac6844bd3d0b20dbeebd9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8507213572772968088, guid: 20d671b8733ac6844bd3d0b20dbeebd9,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -75175,6 +75745,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Box_yellow (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1974716787385265413, guid: 7af2f8c52b9f3cc4cb5edca6c2404afe,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -75273,6 +75848,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk_drawer3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1010547005557534743, guid: be6d2cdc0a477354aa4177d48f97a2ca,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5432399735515632587, guid: be6d2cdc0a477354aa4177d48f97a2ca,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -75356,6 +75936,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -75537,6 +76122,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: chair8_back (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -75610,6 +76200,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair8_back
+      objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
@@ -75741,6 +76336,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: trashcans
       objectReference: {fileID: 0}
+    - target: {fileID: 5673239777878917211, guid: 3db593f2e81b07d43a96551ea8104435,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -75848,6 +76448,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair8_back (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
@@ -76071,6 +76676,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet4
       objectReference: {fileID: 0}
+    - target: {fileID: 507529465019194898, guid: 354a729c3b1637649ab7852e6fc7076a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5162057401482962206, guid: 354a729c3b1637649ab7852e6fc7076a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -76144,6 +76754,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -76446,6 +77061,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: electric work (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -76752,6 +77372,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: electric work (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -76783,7 +77408,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1047547580
 Transform:
@@ -77344,6 +77969,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: electric work (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -77838,6 +78468,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet4 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 507529465019194898, guid: 354a729c3b1637649ab7852e6fc7076a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5162057401482962206, guid: 354a729c3b1637649ab7852e6fc7076a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -78045,6 +78680,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: electric work
+      objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -78368,6 +79008,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: furniture2_side
       objectReference: {fileID: 0}
+    - target: {fileID: 7932836728425812473, guid: ea75af8b1e0838f43a1f4a600906ae11,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -78475,6 +79120,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair8_back (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
@@ -78781,6 +79431,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: machine4 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -79073,6 +79728,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PC_monitor1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2780058207466273597, guid: 8023755b45863da4eb1968dbf898e428,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -79096,6 +79756,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: stair3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2428679180472974938, guid: 0303bda43a5886d4099f54d7237a5cab,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9046570732898918147, guid: 0303bda43a5886d4099f54d7237a5cab,
         type: 3}
@@ -79305,6 +79970,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet2 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 5737626048229165124, guid: 8ba5b050f568e31438413d08f64f2052,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -79328,6 +79998,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine4 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
@@ -79531,6 +80206,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: bookcase
       objectReference: {fileID: 0}
+    - target: {fileID: 8694628576791803914, guid: c46346b770ecf364db6a8cec5989a687,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -79638,6 +80318,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine4 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
@@ -79763,6 +80448,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: circuit (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8698167775438486547, guid: 65dc5a582c96564499a00441460f64d5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -79836,6 +80526,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PC_monitor1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2780058207466273597, guid: 8023755b45863da4eb1968dbf898e428,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -80248,6 +80943,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: electric work (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -80327,6 +81027,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: circuit (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8698167775438486547, guid: 65dc5a582c96564499a00441460f64d5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -80350,6 +81055,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: drill (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2080026677729297875, guid: 3e790cf3384185a45b296d01a506c9b9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7552738098092249941, guid: 3e790cf3384185a45b296d01a506c9b9,
         type: 3}
@@ -80434,6 +81144,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: drill
+      objectReference: {fileID: 0}
+    - target: {fileID: 2080026677729297875, guid: 3e790cf3384185a45b296d01a506c9b9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7552738098092249941, guid: 3e790cf3384185a45b296d01a506c9b9,
         type: 3}
@@ -80659,6 +81374,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: furniture_side (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7779741036655960287, guid: e0b2714604d5ec848825e4ce9ee4df96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -80682,6 +81402,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: bookcase_long (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2800498021297861221, guid: 86d511f8b745fec44b5e6cf9799bf516,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6183013441634506903, guid: 86d511f8b745fec44b5e6cf9799bf516,
         type: 3}
@@ -80908,6 +81633,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: drill (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2080026677729297875, guid: 3e790cf3384185a45b296d01a506c9b9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7552738098092249941, guid: 3e790cf3384185a45b296d01a506c9b9,
         type: 3}
@@ -81204,6 +81934,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wire Stripper (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8606476437107973325, guid: 25bcd4d5a85a1e1498de657b48008673,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -81655,7 +82390,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1209248595
 Transform:
@@ -81744,6 +82479,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair8_back (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
@@ -81869,6 +82609,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: furniture_side (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7779741036655960287, guid: e0b2714604d5ec848825e4ce9ee4df96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -81953,6 +82698,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: chair7_back (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8497453187625823526, guid: dcd128d4632e21e46a99660c8ee163cb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -81976,6 +82726,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine4 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
@@ -82124,6 +82879,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: stair4 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105550879789321302, guid: a9b098fdb902a87429c8d67dc43db4ee,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6377014217409802619, guid: a9b098fdb902a87429c8d67dc43db4ee,
         type: 3}
@@ -82605,6 +83365,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: machine6 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5936767126502021933, guid: bee389c4cc5e15748bffa409a28fa1c1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7364938079390221075, guid: bee389c4cc5e15748bffa409a28fa1c1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -82986,6 +83751,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PC4_front
       objectReference: {fileID: 0}
+    - target: {fileID: 8746452816774849909, guid: 63079c0896f2f594b95dfe30c31185bc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -83238,6 +84008,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: trashcans
       objectReference: {fileID: 0}
+    - target: {fileID: 5673239777878917211, guid: 3db593f2e81b07d43a96551ea8104435,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -83454,6 +84229,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: nippers
       objectReference: {fileID: 0}
+    - target: {fileID: 7867403131705152033, guid: b6b637d8d178c944bbf6d68bd514e625,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -83538,6 +84318,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: elbow_sofa
       objectReference: {fileID: 0}
+    - target: {fileID: 115086659814195428, guid: 18f79ce972c9e6547818c1a57a48ba6c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -83561,6 +84346,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair8_back (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
@@ -83701,6 +84491,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: circuit (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8698167775438486547, guid: 65dc5a582c96564499a00441460f64d5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -83724,6 +84519,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: drill (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2080026677729297875, guid: 3e790cf3384185a45b296d01a506c9b9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7552738098092249941, guid: 3e790cf3384185a45b296d01a506c9b9,
         type: 3}
@@ -84028,6 +84828,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: electric work (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -84051,6 +84856,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine4 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
@@ -84198,6 +85008,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -84447,7 +85262,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1320998268
 Transform:
@@ -84785,6 +85600,10 @@ PrefabInstance:
     - target: {fileID: 7965921289717414, guid: 9d4c03b8461539c40b5515c3be1e4c03, type: 3}
       propertyPath: m_Name
       value: tree
+      objectReference: {fileID: 0}
+    - target: {fileID: 7965921289717414, guid: 9d4c03b8461539c40b5515c3be1e4c03, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4098146812669866705, guid: 9d4c03b8461539c40b5515c3be1e4c03,
         type: 3}
@@ -85209,6 +86028,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: drill (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2080026677729297875, guid: 3e790cf3384185a45b296d01a506c9b9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7552738098092249941, guid: 3e790cf3384185a45b296d01a506c9b9,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -85516,6 +86340,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: circuit (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8698167775438486547, guid: 65dc5a582c96564499a00441460f64d5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -85613,6 +86442,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: drawer (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1113986267387990588, guid: 84bc479fd7e970e4fa8e6e292b154057,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4855912684972781504, guid: 84bc479fd7e970e4fa8e6e292b154057,
         type: 3}
@@ -85747,6 +86581,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk_drawer (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7963323704704248982, guid: e4e575dfbcf95044986044290190c78a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -85995,6 +86834,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: electric work (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -86107,6 +86951,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine6 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936767126502021933, guid: bee389c4cc5e15748bffa409a28fa1c1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7364938079390221075, guid: bee389c4cc5e15748bffa409a28fa1c1,
         type: 3}
@@ -86425,6 +87274,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair8_back (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
@@ -86886,6 +87740,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wire Stripper
       objectReference: {fileID: 0}
+    - target: {fileID: 8606476437107973325, guid: 25bcd4d5a85a1e1498de657b48008673,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -86993,6 +87852,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -87226,6 +88090,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: electric work (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -87694,6 +88563,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: machine4 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -87976,6 +88850,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet2 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 5737626048229165124, guid: 8ba5b050f568e31438413d08f64f2052,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -88071,6 +88950,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: electric work (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -88230,6 +89114,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet2 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5737626048229165124, guid: 8ba5b050f568e31438413d08f64f2052,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -88313,6 +89202,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: electric work (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -88588,6 +89482,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -88900,6 +89799,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: book
       objectReference: {fileID: 0}
+    - target: {fileID: 465936685070866288, guid: b54087c0e96155743adc8a443858201d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3494496738298525378, guid: b54087c0e96155743adc8a443858201d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -88973,6 +89877,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair8_back (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
@@ -89069,6 +89978,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 31768849002534350, guid: 50d25291642279e4894c9feeccacefdd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1776890322724927555, guid: 50d25291642279e4894c9feeccacefdd,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -89152,6 +90066,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine4 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
@@ -89464,6 +90383,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: drill (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 2080026677729297875, guid: 3e790cf3384185a45b296d01a506c9b9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7552738098092249941, guid: 3e790cf3384185a45b296d01a506c9b9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -89597,6 +90521,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: electric work (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -89744,6 +90673,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk_drawer2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4799517149396083380, guid: 462d7574b64181f48b56739fc8e71829,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -89773,6 +90707,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine4 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
@@ -89901,6 +90840,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cabinet1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 31768849002534350, guid: 50d25291642279e4894c9feeccacefdd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1776890322724927555, guid: 50d25291642279e4894c9feeccacefdd,
         type: 3}
@@ -90036,6 +90980,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: nippers (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7867403131705152033, guid: b6b637d8d178c944bbf6d68bd514e625,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -90065,6 +91014,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: drawer (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1113986267387990588, guid: 84bc479fd7e970e4fa8e6e292b154057,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4855912684972781504, guid: 84bc479fd7e970e4fa8e6e292b154057,
         type: 3}
@@ -90382,6 +91336,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: stair4
       objectReference: {fileID: 0}
+    - target: {fileID: 4105550879789321302, guid: a9b098fdb902a87429c8d67dc43db4ee,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6377014217409802619, guid: a9b098fdb902a87429c8d67dc43db4ee,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -90525,6 +91484,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: bookcase (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8694628576791803914, guid: c46346b770ecf364db6a8cec5989a687,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -90684,6 +91648,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: electric work (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -90772,6 +91741,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Box_yellow (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974716787385265413, guid: 7af2f8c52b9f3cc4cb5edca6c2404afe,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -90881,6 +91855,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: machine6 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5936767126502021933, guid: bee389c4cc5e15748bffa409a28fa1c1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7364938079390221075, guid: bee389c4cc5e15748bffa409a28fa1c1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -90960,6 +91939,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cabinet1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 31768849002534350, guid: 50d25291642279e4894c9feeccacefdd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1776890322724927555, guid: 50d25291642279e4894c9feeccacefdd,
         type: 3}
@@ -91122,6 +92106,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: board
+      objectReference: {fileID: 0}
+    - target: {fileID: 1658976544586862233, guid: aad881620a4c7be4687fe159faa6943d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3919733283383898851, guid: aad881620a4c7be4687fe159faa6943d,
         type: 3}
@@ -91523,6 +92512,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk15 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -91781,6 +92775,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: board
+      objectReference: {fileID: 0}
+    - target: {fileID: 1658976544586862233, guid: aad881620a4c7be4687fe159faa6943d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3919733283383898851, guid: aad881620a4c7be4687fe159faa6943d,
         type: 3}
@@ -92262,6 +93261,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: board
       objectReference: {fileID: 0}
+    - target: {fileID: 1658976544586862233, guid: aad881620a4c7be4687fe159faa6943d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3919733283383898851, guid: aad881620a4c7be4687fe159faa6943d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -92346,6 +93350,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: chair8_back (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -92419,6 +93428,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cabinet1 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 31768849002534350, guid: 50d25291642279e4894c9feeccacefdd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1776890322724927555, guid: 50d25291642279e4894c9feeccacefdd,
         type: 3}
@@ -92588,6 +93602,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk15 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -92671,6 +93690,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cabinet4 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 507529465019194898, guid: 354a729c3b1637649ab7852e6fc7076a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5162057401482962206, guid: 354a729c3b1637649ab7852e6fc7076a,
         type: 3}
@@ -92960,6 +93984,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5737626048229165124, guid: 8ba5b050f568e31438413d08f64f2052,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -92983,6 +94012,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine4 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
@@ -93057,6 +94091,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -93681,6 +94720,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Box_yellow
       objectReference: {fileID: 0}
+    - target: {fileID: 1974716787385265413, guid: 7af2f8c52b9f3cc4cb5edca6c2404afe,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -93754,6 +94798,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PC_monitor1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2780058207466273597, guid: 8023755b45863da4eb1968dbf898e428,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -93933,6 +94982,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: stair3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2428679180472974938, guid: 0303bda43a5886d4099f54d7237a5cab,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 9046570732898918147, guid: 0303bda43a5886d4099f54d7237a5cab,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -94100,6 +95154,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: board
+      objectReference: {fileID: 0}
+    - target: {fileID: 1658976544586862233, guid: aad881620a4c7be4687fe159faa6943d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3919733283383898851, guid: aad881620a4c7be4687fe159faa6943d,
         type: 3}
@@ -94332,6 +95391,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -94960,6 +96024,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: pc_front
       objectReference: {fileID: 0}
+    - target: {fileID: 6711791242785302382, guid: eea6abdc7204e4a41ab4356097384aa2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -95067,6 +96136,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: board
+      objectReference: {fileID: 0}
+    - target: {fileID: 1658976544586862233, guid: aad881620a4c7be4687fe159faa6943d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3919733283383898851, guid: aad881620a4c7be4687fe159faa6943d,
         type: 3}
@@ -95380,6 +96454,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wire Stripper (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8606476437107973325, guid: 25bcd4d5a85a1e1498de657b48008673,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -95460,6 +96539,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: nippers (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7867403131705152033, guid: b6b637d8d178c944bbf6d68bd514e625,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -95483,6 +96567,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: stair3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2428679180472974938, guid: 0303bda43a5886d4099f54d7237a5cab,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9046570732898918147, guid: 0303bda43a5886d4099f54d7237a5cab,
         type: 3}
@@ -95719,6 +96808,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine4 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
@@ -96179,6 +97273,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet1
       objectReference: {fileID: 0}
+    - target: {fileID: 31768849002534350, guid: 50d25291642279e4894c9feeccacefdd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1776890322724927555, guid: 50d25291642279e4894c9feeccacefdd,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -96263,6 +97362,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PC2MONITOR_front
       objectReference: {fileID: 0}
+    - target: {fileID: 3940087267420986974, guid: a53dc62f786e79144ad163118b1f5aae,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8206497118725309348, guid: a53dc62f786e79144ad163118b1f5aae,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -96336,6 +97440,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -96578,6 +97687,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: drill (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2080026677729297875, guid: 3e790cf3384185a45b296d01a506c9b9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5412338762959532864, guid: 3e790cf3384185a45b296d01a506c9b9,
         type: 3}
       propertyPath: m_SortingOrder
@@ -96799,6 +97913,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: nippers (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7867403131705152033, guid: b6b637d8d178c944bbf6d68bd514e625,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -97222,6 +98341,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: korean flag
       objectReference: {fileID: 0}
+    - target: {fileID: 723433813927291567, guid: eba461d7790dded488cf3a899955d411,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8950659877371292398, guid: eba461d7790dded488cf3a899955d411,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -97351,6 +98475,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: furniture_side (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7779741036655960287, guid: e0b2714604d5ec848825e4ce9ee4df96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -97458,6 +98587,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: drawer (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1113986267387990588, guid: 84bc479fd7e970e4fa8e6e292b154057,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4855912684972781504, guid: 84bc479fd7e970e4fa8e6e292b154057,
         type: 3}
@@ -97908,6 +99042,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk_drawer (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7963323704704248982, guid: e4e575dfbcf95044986044290190c78a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -98955,6 +100094,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: trash_can (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8414104951779798304, guid: 6b74af9cec72fca46abe8396e01b3358,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -99127,6 +100271,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Box_yellow (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974716787385265413, guid: 7af2f8c52b9f3cc4cb5edca6c2404afe,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -99532,6 +100681,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk8
       objectReference: {fileID: 0}
+    - target: {fileID: 7341775059675600478, guid: 050fe4c510bcf4a49bd2057f58f96509,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -99882,6 +101036,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: machine4
       objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -100191,6 +101350,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: drill
       objectReference: {fileID: 0}
+    - target: {fileID: 2080026677729297875, guid: 3e790cf3384185a45b296d01a506c9b9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7552738098092249941, guid: 3e790cf3384185a45b296d01a506c9b9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -100399,6 +101563,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: trashcans
       objectReference: {fileID: 0}
+    - target: {fileID: 5673239777878917211, guid: 3db593f2e81b07d43a96551ea8104435,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -100482,6 +101651,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7339946899351874300, guid: ef0e15a1529007a418c9cb0e1b59069a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -100795,6 +101969,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: air purifier
       objectReference: {fileID: 0}
+    - target: {fileID: 7556378162910746673, guid: 2e26581aaf630a94aa8817af4a638cd8,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -100878,6 +102057,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: electric work
+      objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -100968,6 +102152,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: trashcans
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673239777878917211, guid: 3db593f2e81b07d43a96551ea8104435,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -101078,7 +102267,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1845252188
 Transform:
@@ -101206,6 +102395,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: electric work (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -101809,6 +103003,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: machine6 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5936767126502021933, guid: bee389c4cc5e15748bffa409a28fa1c1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7364938079390221075, guid: bee389c4cc5e15748bffa409a28fa1c1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -102314,6 +103513,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk15 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -102777,6 +103981,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk_drawer3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1010547005557534743, guid: be6d2cdc0a477354aa4177d48f97a2ca,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5432399735515632587, guid: be6d2cdc0a477354aa4177d48f97a2ca,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -103125,6 +104334,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: trash_can (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8414104951779798304, guid: 6b74af9cec72fca46abe8396e01b3358,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -103745,6 +104959,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: drill (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2080026677729297875, guid: 3e790cf3384185a45b296d01a506c9b9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7552738098092249941, guid: 3e790cf3384185a45b296d01a506c9b9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -103942,6 +105161,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: circuit (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8698167775438486547, guid: 65dc5a582c96564499a00441460f64d5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -104343,6 +105567,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wire Stripper (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8606476437107973325, guid: 25bcd4d5a85a1e1498de657b48008673,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -104609,6 +105838,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cabinet1 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 31768849002534350, guid: 50d25291642279e4894c9feeccacefdd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1776890322724927555, guid: 50d25291642279e4894c9feeccacefdd,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -104851,6 +106085,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: book_blue
       objectReference: {fileID: 0}
+    - target: {fileID: 3815692418588530989, guid: 23c2f51e903e3a943a91085e506c5f05,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4673794535948274392, guid: 23c2f51e903e3a943a91085e506c5f05,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -104924,6 +106163,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: board (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1658976544586862233, guid: aad881620a4c7be4687fe159faa6943d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3919733283383898851, guid: aad881620a4c7be4687fe159faa6943d,
         type: 3}
@@ -105270,6 +106514,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: stair4 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4105550879789321302, guid: a9b098fdb902a87429c8d67dc43db4ee,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6377014217409802619, guid: a9b098fdb902a87429c8d67dc43db4ee,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -105506,6 +106755,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: machine4 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -105668,6 +106922,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair8_back (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
@@ -105911,6 +107170,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: chair8_back (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 6091044322379553789, guid: 2e67d6ffd460aa24e89185d4342e5607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8208838967300001516, guid: 2e67d6ffd460aa24e89185d4342e5607,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -106034,6 +107298,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: circuit (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8698167775438486547, guid: 65dc5a582c96564499a00441460f64d5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -106429,6 +107698,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: electric work (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -106667,6 +107941,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: electric work (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 7736605369672386781, guid: b771e3166f74d2a4d888e614f33d2b10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -106775,6 +108054,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: drill (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2080026677729297875, guid: 3e790cf3384185a45b296d01a506c9b9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7552738098092249941, guid: 3e790cf3384185a45b296d01a506c9b9,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -106858,6 +108142,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: machine6 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936767126502021933, guid: bee389c4cc5e15748bffa409a28fa1c1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7364938079390221075, guid: bee389c4cc5e15748bffa409a28fa1c1,
         type: 3}
@@ -106988,6 +108277,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: nippers (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7867403131705152033, guid: b6b637d8d178c944bbf6d68bd514e625,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -107011,6 +108305,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: stair4 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105550879789321302, guid: a9b098fdb902a87429c8d67dc43db4ee,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6377014217409802619, guid: a9b098fdb902a87429c8d67dc43db4ee,
         type: 3}
@@ -107243,6 +108542,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: drill (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2080026677729297875, guid: 3e790cf3384185a45b296d01a506c9b9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7552738098092249941, guid: 3e790cf3384185a45b296d01a506c9b9,
         type: 3}
@@ -107548,6 +108852,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk15 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -107681,6 +108990,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: nippers
+      objectReference: {fileID: 0}
+    - target: {fileID: 7867403131705152033, guid: b6b637d8d178c944bbf6d68bd514e625,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -107931,6 +109245,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk15 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
@@ -108239,6 +109558,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: trash_can (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8414104951779798304, guid: 6b74af9cec72fca46abe8396e01b3358,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -108411,6 +109735,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk15 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7418266595827687610, guid: efd056d920eafb146b740bed16e14a8c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7965902104721499822, guid: efd056d920eafb146b740bed16e14a8c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -108574,6 +109903,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: machine4 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1661191461972995088, guid: 8910b4265104dfa41ad2cb65c0d9d121,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7185687945728208459, guid: 8910b4265104dfa41ad2cb65c0d9d121,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -108707,6 +110041,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wire Stripper (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8606476437107973325, guid: 25bcd4d5a85a1e1498de657b48008673,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -109127,6 +110466,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: desk_drawer3
       objectReference: {fileID: 0}
+    - target: {fileID: 1010547005557534743, guid: be6d2cdc0a477354aa4177d48f97a2ca,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5432399735515632587, guid: be6d2cdc0a477354aa4177d48f97a2ca,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -109361,6 +110705,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wire Stripper (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8606476437107973325, guid: 25bcd4d5a85a1e1498de657b48008673,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -109451,6 +110800,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: trash_can
       objectReference: {fileID: 0}
+    - target: {fileID: 8414104951779798304, guid: 6b74af9cec72fca46abe8396e01b3358,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -109474,6 +110828,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: drill (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2080026677729297875, guid: 3e790cf3384185a45b296d01a506c9b9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7552738098092249941, guid: 3e790cf3384185a45b296d01a506c9b9,
         type: 3}
@@ -110100,8 +111459,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  walk_speed: 10
+  sprint_speed: 15
   hp: 100
-  stamina: 100
+  stamina: 10000
   rgd: {fileID: 0}
 --- !u!95 &2132904092
 Animator:
@@ -110220,6 +111581,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: desk_drawer3 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1010547005557534743, guid: be6d2cdc0a477354aa4177d48f97a2ca,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5432399735515632587, guid: be6d2cdc0a477354aa4177d48f97a2ca,
         type: 3}

@@ -47,8 +47,8 @@ public class UI : MonoBehaviour
     public void show_stbar(int st)
     {
         //st 증감에 따른 변화
-        st_shape.localPosition = new Vector3(stbar_x - (stbar_sizex * (100 - st) * 0.01f) / 2, st_shape.localPosition.y, 1);
-        st_shape.localScale = new Vector3(stbar_sizex * st * 0.01f, st_shape.localScale.y, 1);
+        st_shape.localPosition = new Vector3(stbar_x - (stbar_sizex * (1000 - st) * 0.001f) / 2, st_shape.localPosition.y, 1);
+        st_shape.localScale = new Vector3(stbar_sizex * st * 0.001f, st_shape.localScale.y, 1);
     }
 
     public void get_license(int id)

@@ -8,6 +8,8 @@ public class Player : MonoBehaviour
 {
     private const bool V = true;
     public float speed;
+    public float walk_speed;
+    public float sprint_speed;
     public int hp, stamina;
     public Rigidbody2D rgd;
     bool is_move_x = false;
@@ -62,7 +64,18 @@ public class Player : MonoBehaviour
         if (Input.GetButtonDown("Fire2") && hp < 100)
         {
             hp += 10;
-            speed += 1;
+        }
+
+        if(Input.GetButton("Shift") && stamina > 0)
+        {
+            speed = sprint_speed;
+            stamina -= 1;
+        }
+        else
+        {
+            stamina++;
+            if (stamina > 1000) stamina = 1000;
+            speed = walk_speed;
         }
 
         if(hp <= 0)
