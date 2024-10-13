@@ -15,6 +15,8 @@ public class GameTime : MonoBehaviour
     public int year = 2025;
     public int month = 3;
     public int grade = 0;
+    public int d;
+    public float dayspeed_per_sec;
     void Start()
     {
         calender = new int[] { 0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
@@ -27,7 +29,7 @@ public class GameTime : MonoBehaviour
     }
     private IEnumerator timer()
     {
-        for (int d = 0; d < 1045; d++)
+        for (d = 0; d < 1045; d++)
         {
             if (month == 3 && day == 2) grade++;
             if (day > calender[month])
@@ -47,6 +49,8 @@ public class GameTime : MonoBehaviour
             str += "월 ";
             str += day.ToString();
             str += "일";
+            str += "\nd + ";
+            str += d.ToString();
             textbar.text = str;
             day++;
 
@@ -55,7 +59,7 @@ public class GameTime : MonoBehaviour
             grade_str += "학년";
             grade_text.text = grade_str;
 
-            yield return new WaitForSeconds(2f);
+            yield return new WaitForSeconds(dayspeed_per_sec);
         }
     }
 }

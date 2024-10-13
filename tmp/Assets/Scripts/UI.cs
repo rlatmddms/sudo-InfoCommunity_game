@@ -1,15 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.Collections;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class UI : MonoBehaviour
 {
     public Transform hp_shape;
     public Transform st_shape;
+    public SpriteRenderer st_rd;
     float stbar_x, stbar_sizex;
     float hpbar_x, hpbar_sizex;
 
     public Camera cam;
+    public Text NoticeText;
+    Color text_color;
 
     public bool[] having_license;
     public License[] licenses;
@@ -28,14 +33,59 @@ public class UI : MonoBehaviour
         hpbar_sizex = hp_shape.localScale.x;
     }
 
+    private void Start()
+    {
+        text_color = NoticeText.color;
+        NoticeText.gameObject.SetActive(false);
+    }
+
     private void Update()
+    {
+        
+    }
+
+    public void Notice(string text)
+    {
+        NoticeText.text = text;
+        NoticeText.gameObject.SetActive(true);
+        NoticeText.color = text_color;
+        StartCoroutine(close_text());
+    }
+    private IEnumerator close_text()
+    {
+        yield return new WaitForSeconds(1f);
+        for (int aa = 0; aa < 255; aa+=5)
+        {
+            NoticeText.color = new Color(0, 0, 0, (255 - aa) / 255f);
+            yield return new WaitForSeconds(0.01f); // 1초마다 반복문 실행
+        }
+        NoticeText.gameObject.SetActive(false);
+    }
+    /*
+     private void Start()
+    {
+        path = new List<Vector3Int>();
+        StartCoroutine(UpdatePath());
+    }
+
+    private void Update()
+    {
+        MoveAlongPath();
+    }
+
+    private IEnumerator UpdatePath()
+    {
+        while (true)
+        {
+            CalculatePath();
+            yield return new WaitForSeconds(1f); // 1초마다 경로 재계산
+        }
+    }
+     */
+    private void FixedUpdate()
     {
         show_hpbar(GameManager.gm.player.hp);
         show_stbar(GameManager.gm.player.stamina);
-    }
-
-    private void FixedUpdate()
-    {
     }
 
     public void show_hpbar(int hp)
