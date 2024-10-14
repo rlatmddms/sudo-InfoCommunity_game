@@ -4033,7 +4033,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hp_shape: {fileID: 644693022}
   st_shape: {fileID: 1789391317}
+  st_rd: {fileID: 1789391318}
   cam: {fileID: 519420031}
+  NoticeText: {fileID: 308028944}
   having_license: 00000000000000000000
   licenses:
   - {fileID: 651723451}
@@ -42804,11 +42806,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textbar: {fileID: 659648537}
+  grade_text: {fileID: 308028944}
   str: 
+  grade_str: 
   day: 2
   calender: 000000001f0000001c0000001f0000001e0000001f0000001e0000001f0000001f0000001e0000001f0000001e0000001f000000
   year: 2025
   month: 3
+  grade: 0
+  d: 0
+  dayspeed_per_sec: 0
 --- !u!4 &1391522781
 Transform:
   m_ObjectHideFlags: 0
@@ -44609,6 +44616,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 2132904091}
   ui: {fileID: 143150259}
+  gametime: {fileID: 0}
   enemyAI: {fileID: 558808062}
   enemy: {fileID: 1948338797}
 --- !u!4 &1457924674
@@ -110289,8 +110297,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  walk_speed: 0
+  sprint_speed: 0
   hp: 100
   stamina: 100
+  recover_st: 20
+  use_st: 50
   rgd: {fileID: 2132904090}
 --- !u!95 &2132904092
 Animator:

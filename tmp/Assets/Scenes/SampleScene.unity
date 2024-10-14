@@ -4038,6 +4038,7 @@ MonoBehaviour:
   start_date: 20
   end_date: 900
   id: 1
+  change_scene: 
 --- !u!1001 &141645306
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -57853,6 +57854,7 @@ MonoBehaviour:
   start_date: 460
   end_date: 900
   id: 3
+  change_scene: 
 --- !u!1001 &501586207
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -67079,7 +67081,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 745576693}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -74642,6 +74644,7 @@ MonoBehaviour:
   start_date: 480
   end_date: 730
   id: 4
+  change_scene: 
 --- !u!1001 &965597204
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -76720,6 +76723,7 @@ MonoBehaviour:
   start_date: 90
   end_date: 610
   id: 5
+  change_scene: 
 --- !u!1001 &1028131051
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -83396,6 +83400,7 @@ MonoBehaviour:
   start_date: 810
   end_date: 840
   id: 6
+  change_scene: 
 --- !u!1001 &1252054432
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -88040,6 +88045,7 @@ MonoBehaviour:
   start_date: 20
   end_date: 900
   id: 8
+  change_scene: 
 --- !u!1001 &1389099350
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -93362,6 +93368,7 @@ MonoBehaviour:
   start_date: 20
   end_date: 900
   id: 7
+  change_scene: 
 --- !u!1001 &1560838002
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -95982,6 +95989,7 @@ MonoBehaviour:
   start_date: 90
   end_date: 730
   id: 0
+  change_scene: 
 --- !u!1001 &1640655928
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -99797,6 +99805,7 @@ MonoBehaviour:
   start_date: 20
   end_date: 900
   id: 2
+  change_scene: 
 --- !u!1001 &1757433767
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -110524,6 +110533,7 @@ MonoBehaviour:
   start_date: 20
   end_date: 900
   id: 9
+  change_scene: 
 --- !u!58 &2103946480
 CircleCollider2D:
   m_ObjectHideFlags: 0
