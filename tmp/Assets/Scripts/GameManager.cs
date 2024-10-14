@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
     public GameTime gametime;
     public EnemyAI enemyAI;
     public Enemy_Movement enemy;
-
+    public Rank rank;
 
     void Awake()
     {

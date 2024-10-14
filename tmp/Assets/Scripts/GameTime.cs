@@ -42,22 +42,19 @@ public class GameTime : MonoBehaviour
                     year++;
                 }
             }
-            str = "";
-            str += year.ToString();
-            str += "년 ";
-            str += month.ToString();
-            str += "월 ";
-            str += day.ToString();
-            str += "일";
-            str += "\nd + ";
-            str += d.ToString();
+            str = year.ToString() + "년 " + month.ToString() + "월 " + day.ToString() + "일\nd + " + d.ToString();
             textbar.text = str;
             day++;
 
-            grade_str = "";
-            grade_str += grade.ToString();
-            grade_str += "학년";
-            grade_text.text = grade_str;
+            grade_str = grade.ToString() + "학년\n내신 : ";
+            if (GameManager.gm.rank.my_rank == -1)
+            {
+                grade_str += "??";
+            }
+            else
+            {
+                grade_str += GameManager.gm.rank.my_rank.ToString();
+            }
 
             yield return new WaitForSeconds(dayspeed_per_sec);
         }
