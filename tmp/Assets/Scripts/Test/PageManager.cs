@@ -25,8 +25,14 @@ public class PageManager : MonoBehaviour
         {
             pages[i].gameObject.SetActive(false);
         }
+        canvas_ui.gameObject.gameObject.SetActive(false);
     }
 
+    public void show()
+    {
+        pageindex = 0;
+        show_page();
+    }
     public void show_page()
     {
         if(pageindex < pages.Length)
@@ -72,7 +78,11 @@ public class PageManager : MonoBehaviour
     }
     public void close_all()
     {
-        this.gameObject.SetActive(false);
+        for (int i = 0; i < pages.Length; i++)
+        {
+            pages[i].gameObject.SetActive(false);
+        }
+        canvas_ui.gameObject.gameObject.SetActive(false);
     }
     public IEnumerator effect(Color color)
     {

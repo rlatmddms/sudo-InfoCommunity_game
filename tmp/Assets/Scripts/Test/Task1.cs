@@ -93,7 +93,10 @@ public class Task1 : MonoBehaviour
 
     void close_all()
     {
-        this.gameObject.SetActive(false);
+        for (int i = 0; i < pages.Length; i++)
+        {
+            pages[i].gameObject.SetActive(false);
+        }
     }
     public IEnumerator effect(Color color)
     {

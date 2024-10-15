@@ -1436,7 +1436,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1655519787}
         m_TargetAssemblyTypeName: PageManager, Assembly-CSharp
-        m_MethodName: show_page
+        m_MethodName: show
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5365,57 +5365,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 742481913}
   m_CullTransparentMesh: 1
---- !u!1 &765159253
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 765159255}
-  - component: {fileID: 765159254}
-  m_Layer: 0
-  m_Name: GameManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &765159254
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 765159253}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a5bea80f15af0584f81fe7dcec40a6fd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 0}
-  ui: {fileID: 0}
-  gametime: {fileID: 0}
-  enemyAI: {fileID: 0}
-  enemy: {fileID: 0}
-  rank: {fileID: 0}
-  pagemanager: {fileID: 60236943}
---- !u!4 &765159255
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 765159253}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &780902962
 GameObject:
   m_ObjectHideFlags: 0
@@ -9152,7 +9101,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 60236943}
         m_TargetAssemblyTypeName: PageManager, Assembly-CSharp
-        m_MethodName: show_page
+        m_MethodName: show
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -13501,6 +13450,5 @@ SceneRoots:
   - {fileID: 60236944}
   - {fileID: 919363618}
   - {fileID: 1655519786}
-  - {fileID: 765159255}
   - {fileID: 386475506}
   - {fileID: 1002064818}
