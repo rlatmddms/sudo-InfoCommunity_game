@@ -73,7 +73,7 @@ public class GetLicenseSystem : MonoBehaviour
         if(GameManager.gm.gametime.d >= start_date && GameManager.gm.gametime.d <= end_date && id < 10)
         {
             string text = gameObject.name + "¸¦ È¹µæÇÏ¿´½À´Ï´Ù."; 
-            GameManager.gm.ui.Notice(text);
+            GameManager.gm.ui.Notice(text,0,0,1f,50,true);
             gameObject.SetActive(false);
             GameManager.gm.ui.get_license(id);
             id = 100;

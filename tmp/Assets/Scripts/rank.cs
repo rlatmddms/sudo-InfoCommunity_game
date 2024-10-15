@@ -4,5 +4,6 @@ using UnityEngine;
 
 public class Rank : MonoBehaviour
 {
-    public int my_rank = -1;
+    public float rankscore = 0; // 100 / 100
+    public int div = 0;
 }
