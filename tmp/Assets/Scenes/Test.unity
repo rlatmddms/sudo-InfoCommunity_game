@@ -3921,7 +3921,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.18, y: 0}
@@ -8687,7 +8687,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 830, y: 410}
+  m_AnchoredPosition: {x: 740, y: 410}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &275016553
@@ -8723,7 +8723,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "0\uD559\uB144\n\uB0B4\uC2E0 : ??"
+  m_Text: "0\uD559\uB144\n\uB0B4\uC2E0(%) : xx.xx"
 --- !u!222 &275016554
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -72392,7 +72392,7 @@ MonoBehaviour:
   month: 3
   grade: 0
   d: 0
-  fast_dayspeed: 0.01
+  fast_dayspeed: 0.25
   common_dayspeed: 2
   dayspeed_per_sec: 0
 --- !u!4 &745576695
