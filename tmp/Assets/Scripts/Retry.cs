@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Retry : MonoBehaviour
 {
-   
+
 
     
     public void SceneChange()
