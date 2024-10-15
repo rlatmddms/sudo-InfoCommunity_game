@@ -12,7 +12,7 @@ public class GameManager : MonoBehaviour
     public EnemyAI enemyAI;
     public Enemy_Movement enemy;
     public Rank rank;
-    public int order = 0;
+    public PageManager pagemanager;
 
     void Awake()
     {
