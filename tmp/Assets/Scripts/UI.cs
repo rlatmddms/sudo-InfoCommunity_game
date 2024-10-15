@@ -44,20 +44,25 @@ public class UI : MonoBehaviour
         
     }
 
-    public void Notice(string text)
+    public void Notice(string text,float x, float y, float time,int fontsize,bool fade)
     {
+        NoticeText.transform.localPosition = new Vector3(x,y);
+        NoticeText.fontSize = fontsize;
         NoticeText.text = text;
         NoticeText.gameObject.SetActive(true);
         NoticeText.color = text_color;
-        StartCoroutine(close_text());
+        StartCoroutine(close_text(time,fade));
     }
-    private IEnumerator close_text()
+    private IEnumerator close_text(float time, bool fade)
     {
-        yield return new WaitForSeconds(1f);
-        for (int aa = 0; aa < 255; aa+=5)
+        yield return new WaitForSeconds(time);
+        if (fade)
         {
-            NoticeText.color = new Color(0, 0, 0, (255 - aa) / 255f);
-            yield return new WaitForSeconds(0.01f); // 1초마다 반복문 실행
+            for (int aa = 0; aa < 255; aa += 5)
+            {
+                NoticeText.color = new Color(0, 0, 0, (255 - aa) / 255f);
+                yield return new WaitForSeconds(0.01f); // 1초마다 반복문 실행
+            }
         }
         NoticeText.gameObject.SetActive(false);
     }
