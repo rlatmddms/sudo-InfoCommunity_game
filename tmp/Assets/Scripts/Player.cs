@@ -57,17 +57,6 @@ public class Player : MonoBehaviour
         anime.SetInteger("hor", (int)(input.x));
         anime.SetInteger("ver", (int)(input.y));
 
-
-
-        if (Input.GetButtonDown("Fire1") && hp > 0)
-        {
-            hp -= 10;
-        }
-        if (Input.GetButtonDown("Fire2") && hp < 100)
-        {
-            hp += 10;
-        }
-
         if(hp <= 0)
         {
             Invoke("Game_Over", 1);

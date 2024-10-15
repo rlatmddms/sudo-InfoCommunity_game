@@ -9,6 +9,8 @@ public class PageManager : MonoBehaviour
     public Page[] pages;
     public Image canvas_ui;
     private int pageindex = 0; // 현재 미션 창 인덱스
+    public int wrong_cnt = 0;
+    public GetLicenseSystem glc;
     Color wrong = new Color(140 / 255f, 15 / 255f, 15 / 255f);
     Color right = new Color(40 / 255f, 210 / 255f, 40 / 255f);
 
@@ -30,7 +32,9 @@ public class PageManager : MonoBehaviour
 
     public void show()
     {
+        pages[pages.Length - 1].nextButton.gameObject.SetActive(true);
         pageindex = 0;
+        wrong_cnt = 0;
         show_page();
     }
     public void show_page()
@@ -69,15 +73,27 @@ public class PageManager : MonoBehaviour
         else
         {
             StartCoroutine(effect(wrong));
+            wrong_cnt++;
         }
     }
 
     void all_complete()
     {
-        
+        Debug.Log("all");
+        glc.get_license_event();
+        this.gameObject.SetActive(false);
     }
     public void close_all()
     {
+        if(pageindex == pages.Length - 1 && wrong_cnt == 0)
+        {
+            wrong_cnt = 1;
+            all_complete();
+        }
+        else
+        {
+            glc.start_date = glc.d + 20;
+        }
         for (int i = 0; i < pages.Length; i++)
         {
             pages[i].gameObject.SetActive(false);

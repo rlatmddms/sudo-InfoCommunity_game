@@ -7,8 +7,10 @@ using UnityEngine.SceneManagement;
 public class GetLicenseSystem : MonoBehaviour
 {
     SpriteRenderer rd;
+    public GameObject minigame;
     public int start_date, end_date,id;
     public string change_scene;
+    public int d;
 
     void Start()
     {
@@ -28,6 +30,29 @@ public class GetLicenseSystem : MonoBehaviour
     {
         if (collision.collider.CompareTag("Player"))
         {
+            if(GameManager.gm.gametime.d < start_date || GameManager.gm.gametime.d > end_date || id > 10)
+            {
+                return;
+            }
+
+            if(id == 0)
+            {
+                PageManager a = minigame.GetComponent<PageManager>();
+                d = GameManager.gm.gametime.d;
+                a.show();
+            }
+            else if(id == 4)
+            {
+                Task1 a = minigame.GetComponent<Task1>();
+                d = GameManager.gm.gametime.d;
+                a.show();
+            }
+            else if (id == 5)
+            {
+                PageManager a = minigame.GetComponent<PageManager>();
+                d = GameManager.gm.gametime.d;
+                a.show();
+            }
             //switch (id)
             //{
             //    case 0:
@@ -63,20 +88,18 @@ public class GetLicenseSystem : MonoBehaviour
 
             //}
             //SceneManager.LoadScene(change_scene);
-            get_license_event();
+            else 
+                get_license_event();
         }  
             
         
     }
-    void get_license_event()
+    public void get_license_event()
     {
-        if(GameManager.gm.gametime.d >= start_date && GameManager.gm.gametime.d <= end_date && id < 10)
-        {
-            string text = gameObject.name + "¸¦ È¹µæÇÏ¿´½À´Ï´Ù."; 
-            GameManager.gm.ui.Notice(text,0,0,1f,50,true);
-            gameObject.SetActive(false);
-            GameManager.gm.ui.get_license(id);
-            id = 100;
-        }
+        string text = gameObject.name + "¸¦ È¹µæÇÏ¿´½À´Ï´Ù."; 
+        GameManager.gm.ui.Notice(text,0,0,1f,50,true);
+        gameObject.SetActive(false);
+        GameManager.gm.ui.get_license(id);
+        id = 100;
     }
 }

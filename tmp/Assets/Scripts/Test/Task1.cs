@@ -25,6 +25,8 @@ public class Task1 : MonoBehaviour
 
     Color wrong = new Color(140 / 255f, 15 / 255f, 15 / 255f);
     Color right = new Color(40 / 255f, 210 / 255f, 40 / 255f);
+    public bool success = false;
+    public GetLicenseSystem glc;
 
     // Start is called before the first frame update
     void Start()
@@ -42,13 +44,18 @@ public class Task1 : MonoBehaviour
 
     public void show()
     {
+        ipfd1.interactable = true;
+        ipfd2.interactable = true;
+        ipfd3.interactable = true;
         pages[0].gameObject.SetActive(true);
         pages[1].gameObject.SetActive(true);
+        nextButton.gameObject.SetActive(true);
     }
     void show_p2()
     {
         pages[1].gameObject.SetActive(false);
         pages[2].gameObject.SetActive(true);
+        desktop.gameObject.SetActive(true);
 
         desktop_screen.gameObject.SetActive(false);
         IP_conf.gameObject.SetActive(false);
@@ -81,6 +88,7 @@ public class Task1 : MonoBehaviour
         if(ipfd1.text == "100.0.0.1" && ipfd2.text == "255.192.0.0" && ipfd3.text == "100.63.255.254")
         {
             StartCoroutine(effect(right));
+            success = true;
         }
         else
         {
@@ -93,6 +101,15 @@ public class Task1 : MonoBehaviour
 
     void close_all()
     {
+        if(success)
+        {   
+            Debug.Log("ddd");
+            glc.get_license_event();
+        }
+        else
+        {
+            glc.start_date = glc.d + 20;
+        }
         for (int i = 0; i < pages.Length; i++)
         {
             pages[i].gameObject.SetActive(false);
