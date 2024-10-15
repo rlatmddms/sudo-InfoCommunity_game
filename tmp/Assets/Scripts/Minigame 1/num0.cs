@@ -23,6 +23,6 @@ public class Num0 : MonoBehaviour
     // Update is called once per frame
     public void IsClicked()
     {
-        Debug.Log("확인");
+        Debug.Log("확인");    
     }
 }
