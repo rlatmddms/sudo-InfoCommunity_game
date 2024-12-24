@@ -12,6 +12,6 @@ public class movecamera : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        camera_trsf.localPosition = new Vector3(GameManager.gm.player.rgd.position.x, GameManager.gm.player.rgd.position.y, -15);
+        camera_trsf.localPosition = new Vector3(GameManager.gm.player.transform.position.x, GameManager.gm.player.transform.position.y, -15);
     }
 }

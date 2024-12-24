@@ -6,7 +6,7 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public static GameManager gm;
-    public Player player;
+    public Player1 player;
     public UI ui;
     public GameTime gametime;
     public EnemyAI enemyAI;
