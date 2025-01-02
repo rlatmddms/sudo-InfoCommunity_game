@@ -48,12 +48,12 @@ public class Player1 : MonoBehaviour
         if (input.x > 0f && this.transform.localScale.x > 0f || input.x < 0f && this.transform.localScale.x < 0f) this.transform.localScale = new Vector3(this.transform.localScale.x * -1, 2, 1);
         transform.Translate(input * speed * Time.deltaTime);
         if (input != Vector2.zero)
-            anime.SetFloat("RunState", 0.1f);
+            anime.SetFloat("RunState", 0.2f);
         else 
             anime.SetFloat("RunState", 0f);
         if (Input.GetButton("Shift") && stamina > use_st && isis)
         {
-            anime.SetFloat("RunState", 0.3f);
+            anime.SetFloat("RunState", 0.5f);
             speed = sprint_speed;
             stamina -= use_st;
             if (stamina < use_st)

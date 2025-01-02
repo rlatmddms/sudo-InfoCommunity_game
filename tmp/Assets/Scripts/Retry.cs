@@ -6,10 +6,10 @@ using UnityEngine.SceneManagement;
 public class Retry : MonoBehaviour
 {
 
-
+    public string scene_name;
     
     public void SceneChange()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene(scene_name);
     }
 }

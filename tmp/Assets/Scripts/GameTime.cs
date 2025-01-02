@@ -1,10 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class GameTime : MonoBehaviour
-{
+{   
     public Text textbar;
     public Text grade_text;
 
@@ -21,8 +22,10 @@ public class GameTime : MonoBehaviour
     public int d;
 
     public float fast_dayspeed;
+    public float Sfast_dayspeed;
     public float common_dayspeed;
     public float dayspeed_per_sec;
+
     void Start()
     {
         dayspeed_per_sec = common_dayspeed;
@@ -41,6 +44,8 @@ public class GameTime : MonoBehaviour
         if(Input.GetButton("Jump"))
         {
             dayspeed_per_sec = fast_dayspeed;
+            if(Input.GetButton("Fire1"))
+                dayspeed_per_sec = Sfast_dayspeed;
         }
         else
         {
@@ -83,6 +88,16 @@ public class GameTime : MonoBehaviour
 
             yield return new WaitForSeconds(dayspeed_per_sec);
         }
+        int m = GameManager.gm.ui.license_sum();
+        if (m >= 4 && GameManager.gm.rank.rankscore >= 0.5f)
+        {
+            datas.is_gameover = false;
+        }
+        else
+        {
+            datas.is_gameover = true;
+        }
+        SceneManager.LoadScene("game over");
     }
 
     void writepaper_exam()
@@ -91,7 +106,7 @@ public class GameTime : MonoBehaviour
         if(d%365 == 45 || d%365 == 105 || d%365 == 195 || d%365 == 285)
         {
             study_score = 0;
-            GameManager.gm.ui.Notice("지필고사 D-15",0,0,dayspeed_per_sec,70,false);
+            GameManager.gm.ui.Notice("지필고사 D-20",0,0,dayspeed_per_sec,70,false);
             studying.gameObject.SetActive(true);
             StartCoroutine(Examtime());
         }
@@ -102,15 +117,16 @@ public class GameTime : MonoBehaviour
 
         yield return new WaitForSeconds(dayspeed_per_sec);
         
-        for (int i = 0; i < 14; i++)
+        for (int i = 0; i < 19; i++)
         {
-            GameManager.gm.ui.Notice("지필고사 D-"+(14-i).ToString(), -500, 400, 1, 50, false);
+            GameManager.gm.ui.Notice("지필고사 D-"+(19-i).ToString(), -500, 400, 1, 50, false);
             if(studying.touched)
             {
                 study_score++;
             }
             yield return new WaitForSeconds(dayspeed_per_sec);
         }
+        if (study_score >= 14) study_score = 14;
         GameManager.gm.ui.Notice("지필고사!", 0, 0, 1f, 70, false);
         GameManager.gm.rank.rankscore += study_score / 14f;
         GameManager.gm.rank.div += 1;

@@ -127,4 +127,16 @@ public class UI : MonoBehaviour
         licenses[id].giveup_license();
     }
 
+    public int license_sum()
+    {
+        int sum = 0;
+
+        for(int i = 0; i < having_license.Length; i++)
+        {
+            if (having_license[i]) sum++;
+        }
+
+        return sum;
+    }
+
 }

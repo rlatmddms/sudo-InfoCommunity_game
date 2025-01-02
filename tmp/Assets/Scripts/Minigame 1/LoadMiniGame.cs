@@ -101,7 +101,7 @@ public class MiniGame : MonoBehaviour
 
         if (order == 27 || timer >= 60f)
         {
-            SceneManager.LoadScene("SampleScene");
+            SceneManager.LoadScene("Test");
         }
         else
         {
